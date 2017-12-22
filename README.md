@@ -1,6 +1,5 @@
 # Fireman Sam Flashlight #
 
--
 
 In 2016 i experimented a lot with Fischertechnik, Arduino and microelectronics in general.
 
@@ -10,7 +9,7 @@ The result including 5 high performance LEDs, 2 blue LEDs for the sirene, a piez
 
 In a practice test the flashlight was really "evil"... unfortunately the smartphone's sensitivity was not fine enough to capture it in a picture, but the range was about 100 meters and it was by far brighter than the stock flashlight we owned before. Of course it could not compare to really high performance, cooled flashlights, but it was really impressing what you can build in such a short period of time completely from scratch.
 
--
+---
 
 ### The soldering and connection scheme before the soldering action ###
 ![](FritzingScheme.png)
