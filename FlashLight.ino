@@ -1,6 +1,8 @@
 /**
  * Firefighter Flashlight Arduino script
- *  
+ *
+ * Copyright (C) 2016 by Michael Ikemann
+ * 
  *  Hardware setup:
  *  - White bright 30 mA leds at pins 2,3,4,7 and 8
  *  - Blue leds at pins 5 and 6
@@ -83,6 +85,7 @@ public:
   void EvaluateButtons();
 
   //! Handles the press of given button type
+  /** @param [in] Button The button being pressed, @see FlashLightButton */
   void HandleButton(const FlashLightButton Button);
 
   //! Plays the Fireman Sam melody
